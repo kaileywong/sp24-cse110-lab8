@@ -1,17 +1,16 @@
 {
-    "name": "",
-    "short_name": "",
-    "description": "",
-    "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
-    "icons": [
-      {
-        "src": "/assets/images/icons/icon-192x192.png",
-        "sizes": "192x192",
-        "type": "image/png"
-      }
-    ]
-  }
-  
+  "name": "Recipe Display",
+  "short_name": "Recipes",
+  "description": "Displays various Thanksgiving-themed recipes.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#f8f8f8",
+  "theme_color": "#e6e6fa",
+  "icons": [
+    {
+      "src": "/assets/images/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
