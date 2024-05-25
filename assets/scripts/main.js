@@ -53,7 +53,7 @@ function initializeServiceWorker() {
       //            "Using Service Workers" will help you here)
       try {
         const registration = navigator.serviceWorker.register('./sw.js', {
-          scope: "/",
+          scope: "./",
         })
         // B4. TODO - Once the service worker has been successfully registered, console
         //            log that it was successful.
