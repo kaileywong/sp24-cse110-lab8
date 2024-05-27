@@ -1,6 +1,6 @@
 {
-  "name": "Recipe Display",
-  "short_name": "Recipes",
+  "name": "sp24-cse110-lab8",
+  "short_name": "Kailey Wong",
   "description": "Displays various Thanksgiving-themed recipes.",
   "start_url": "/index.html",
   "display": "standalone",
